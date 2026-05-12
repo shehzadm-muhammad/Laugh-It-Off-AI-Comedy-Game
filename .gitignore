@@ -1,0 +1,72 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity / IDE files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# API keys and environment files
+.env
+.env.*
+*.key
+*.pem
+
+# Logs
+*.log
+backend/logs/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large/private files
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*dissertation*
+*report*
+*feedback*
+*marking*
+*specification*
+*submission*
+# Unity Version Control / Plastic SCM
+.plastic/
+**/.plastic/
+plastic.*
+*.plastic
+ignore.conf
+
+# Visual Studio solution files
+*.sln
+*.slnx
+*.csproj
+# Unity recovery/autosave files
+**/Assets/_Recovery/
+**/Assets/_Recovery.meta

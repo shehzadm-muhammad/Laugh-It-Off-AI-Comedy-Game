@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 02fbe39eec970474093c6651bc2a0bc9
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 4e0724d1ce35e3040a1c972ee56f0498
+  - enabled: 1
+    path: Assets/Scenes/SceneSelect.unity
+    guid: be0bd11f63730764ead864f94b81fcd6
+  - enabled: 1
+    path: Assets/Scenes/ComedyGame.unity
+    guid: 4c8e1766c83e8fb4a8da5955237d8002
+  - enabled: 1
+    path: Assets/Scenes/EndSceneSummary.unity
+    guid: 746bc1be321b74b4da8e5195e564e998
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "sc_exam_panic",
+    "title": "Exam Panic",
+    "setting": "A ridiculous hotline for students panicking before an exam, where stress gets turned into lighter, funnier perspective.",
+    "goal": "Lower stress and get a laugh within 8 to 12 turns while staying focused on exam panic, revision, last-minute nerves, and academic overwhelm.",
+    "humour_style": [
+      "improv",
+      "callback",
+      "gentle roast",
+      "encouraging reframing"
+    ],
+    "banned_topics": [
+      "medical advice",
+      "illegal activity",
+      "cheating instructions"
+    ]
+  },
+  {
+    "id": "sc_shift_gone_wrong",
+    "title": "Shift Gone Wrong",
+    "setting": "Everything at work is chaos and your character becomes your comedic coach for surviving messy shifts, annoying moments, and workplace stress.",
+    "goal": "Transform frustration into something lighter and actionable while staying anchored to work chaos, customer stress, mistakes, pressure, and recovery.",
+    "humour_style": [
+      "situational",
+      "silly analogy",
+      "pep-talk",
+      "light exaggeration"
+    ],
+    "banned_topics": [
+      "harassment",
+      "doxxing"
+    ]
+  },
+  {
+    "id": "sc_fridge_marathon",
+    "title": "Fridge Marathon",
+    "setting": "A dramatic sports coach treats the tiny task of going to the fridge like an elite athletic event.",
+    "goal": "Create absurd motivation that makes the user laugh while staying focused on indecision, hunger, snacks, laziness, tiny effort, and exaggerated achievement.",
+    "humour_style": [
+      "absurd",
+      "rule-of-three",
+      "dramatic narration",
+      "fake sports commentary"
+    ],
+    "banned_topics": [
+      "diet shaming",
+      "eating disorder content"
+    ]
+  },
+  {
+    "id": "sc_wedding_prep_chaos",
+    "title": "Wedding Prep Chaos",
+    "setting": "A silly wedding command center where everything goes slightly wrong, but the character helps turn stress into manageable chaos.",
+    "goal": "Make planning stress feel manageable through humour and reframing while staying focused on tasks, overwhelm, timing pressure, mistakes, and emotional overload.",
+    "humour_style": [
+      "situational",
+      "callback",
+      "light chaos",
+      "playful reassurance"
+    ],
+    "banned_topics": [
+      "family insults",
+      "cultural disrespect"
+    ]
+  },
+  {
+    "id": "sc_comedy_kitchen_disaster",
+    "title": "Kitchen Disaster",
+    "setting": "A dramatic cooking show narrator reacts to kitchen chaos like it is the most serious culinary event in history.",
+    "goal": "Turn mistakes into funny moments and a gentle reset while staying focused on burnt food, mess, panic, failed cooking, and over-the-top commentary.",
+    "humour_style": [
+      "commentary",
+      "absurd seriousness",
+      "callback",
+      "mock TV drama"
+    ],
+    "banned_topics": [
+      "dangerous cooking advice",
+      "harmful instructions"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sc_exam_panic",
+    "title": "Exam Panic Hotline",
+    "setting": "A ridiculous hotline for students panicking before an exam.",
+    "goal": "Lower stress and get a laugh within 8–12 turns.",
+    "humour_style": ["improv", "callback", "gentle roast"],
+    "banned_topics": ["medical advice", "illegal activity", "cheating instructions"]
+  },
+  {
+    "id": "sc_shift_gone_wrong",
+    "title": "Shift Gone Wrong",
+    "setting": "Everything at work is chaos and your character is your comedic coach.",
+    "goal": "Transform frustration into something lighter and actionable.",
+    "humour_style": ["situational", "silly analogy", "pep-talk"],
+    "banned_topics": ["harassment", "doxxing"]
+  },
+  {
+    "id": "sc_fridge_marathon",
+    "title": "Gym Motivation… But for Walking to the Fridge",
+    "setting": "A dramatic sports coach motivates you to do the tiniest task.",
+    "goal": "Create absurd motivation that makes you laugh.",
+    "humour_style": ["absurd", "rule-of-three", "dramatic narration"],
+    "banned_topics": ["diet shaming", "eating disorder content"]
+  },
+  {
+    "id": "sc_wedding_prep_chaos",
+    "title": "Wedding Prep Chaos",
+    "setting": "A silly wedding command center where everything goes slightly wrong.",
+    "goal": "Make planning stress feel manageable through humour + reframing.",
+    "humour_style": ["situational", "callback", "light chaos"],
+    "banned_topics": ["family insults", "cultural disrespect"]
+  },
+  {
+    "id": "sc_comedy_kitchen_disaster",
+    "title": "Cooking Disaster Comedy Kitchen",
+    "setting": "A cooking show narrator reacts to your kitchen chaos with dead-serious drama.",
+    "goal": "Turn mistakes into funny moments and a gentle reset.",
+    "humour_style": ["commentary", "absurd seriousness", "callback"],
+    "banned_topics": ["dangerous cooking advice", "harmful instructions"]
+  }
+]
