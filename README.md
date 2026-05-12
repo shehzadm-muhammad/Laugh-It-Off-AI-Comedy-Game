@@ -2,7 +2,7 @@
 
 **Laugh It Off** is my final-year Computer Science project. It is an AI-powered interactive comedy game designed to support light stress relief through humorous conversations, character-based responses, and mood-aware interaction.
 
-The project was built as a working prototype using a **Unity C# frontend**, a **Python FastAPI backend**, and **LLM API integration**. The system allows users to choose a character, select a scenario, enter a mood rating, chat with an AI comedy character, and receive an end-of-scene summary.
+The project was built as a working prototype using a **Unity C# frontend**, a **Python FastAPI backend**, and **LLM API integration**. The system allows users to choose a character, select a scenario, enter a mood rating, chat with an AI comedy character, and receive an end-of-scene summary. 📸 Screenshots are included below to show the main user flow from menu selection to gameplay and end-scene summary.
 
 > This project is designed for entertainment and wellbeing support only. It is not a clinical mental health tool and does not provide medical advice.
 
@@ -52,6 +52,34 @@ The prototype includes comedy scenarios based on everyday stress situations, suc
 - Fridge disaster
 - Wedding preparation chaos
 - Comedy kitchen scenario
+
+---
+
+## Screenshots
+
+### Main Menu
+![Main Menu](docs/screenshots/MainMenu.png)
+
+### Character Selection
+![Character Selection](docs/screenshots/Character_Select.png)
+
+### Scene Selection
+![Scene Selection](docs/screenshots/Scene_Select.png)
+
+### About / Project Information
+![About Screen](docs/screenshots/About.png)
+
+### Gameplay
+![Gameplay](docs/screenshots/Gameplay.png)
+
+![Gameplay Example 2](docs/screenshots/Gameplay1.png)
+
+![Gameplay Example 3](docs/screenshots/Gameplay2.png)
+
+### End Scene Summary
+![End Scene Summary](docs/screenshots/End_Summary.png)
+
+![End Scene Summary Rating](docs/screenshots/End_Summary1.png)
 
 ---
 
